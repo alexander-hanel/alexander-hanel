@@ -1,6 +1,5 @@
 - 👋 Hello, I’m @alexander-hanel
 - 👀 I’m interested in reverse engineering, malware, cryptography, program analysis and programming. 
-- 🌱 I’m currently trying to improve my foundational knowledge of math and program analysis. 
 - 📕 I wrote the [Beginner's Guide to IDAPython](https://leanpub.com/IDAPython-Book) (retired). 
 - 📓 I blog (rarely) at [Hooked-On-Mnemonic](http://hooked-on-mnemonics.blogspot.com/).
 - 📝 I commonly forget code so I'm usually posting snippets to my [gist](https://gist.github.com/alexander-hanel). 
